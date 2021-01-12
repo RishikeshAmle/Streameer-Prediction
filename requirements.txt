@@ -1,0 +1,20 @@
+certifi==2020.12.5
+click==7.1.2
+Flask==1.1.2
+imbalanced-learn @ file:///home/conda/feedstock_root/build_artifacts/imbalanced-learn_1592145894352/work
+imblearn==0.0
+itsdangerous==1.1.0
+Jinja2==2.11.2
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1607956439537/work
+MarkupSafe==1.1.1
+numpy @ file:///D:/bld/numpy_1610324712085/work
+pandas==1.2.0
+python-dateutil==2.8.1
+pytz==2020.5
+scikit-learn @ file:///D:/bld/scikit-learn_1608656375159/work
+scipy @ file:///C:/bld/scipy_1609458088359/work
+six==1.15.0
+threadpoolctl @ file:///tmp/tmp79xdzxkt/threadpoolctl-2.1.0-py3-none-any.whl
+Werkzeug==1.0.1
+wincertstore==0.2
+gunicorn
